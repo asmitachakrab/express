@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+# Asmita
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
